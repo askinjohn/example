@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/askinjohn/example/issues"
   },
-  "homepage": "https://github.com/askinjohn/example#readme"
+  "homepage": "https://github.com/askinjohn/example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
